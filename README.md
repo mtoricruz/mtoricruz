@@ -1,8 +1,4 @@
-### Welcome to my profile!
-
-<a href="https://www.linkedin.com/in/toricruz-mendiola/">
-  <img align="left" alt="Toricruz's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+### Welcome to my profile! <a href="https://www.linkedin.com/in/toricruz-mendiola/"><img align="center" alt="Toricruz's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
 
 Hi there, I'm **Toricruz Mendiola**, a **Full Stack Web Dev Student at Lambda School** 🚀 from Seattle.
