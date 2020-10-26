@@ -7,7 +7,7 @@ Hi there, I'm **Toricruz Mendiola**, a **Full Stack Web Dev Student at Lambda Sc
 
 - 👨🏽‍💻 I’m looking to work with companies that focus on increasing quality of life for the underrepresented;
 - 🌱 I currently volunteer on a coding project for [Intentionalist](https://intentionalist.com/) that has a positive impact on minority owned local businesses;
-- 💼 I’m pursuing Lambda's endorsement in Full Stack Web Development;
+- 💼 I’m endorsed by [Lambda School for Full Stack Web Development](https://www.youracclaim.com/badges/661b539a-83f6-4018-8253-2d2c418c2133/public_url);
 - 💬 Ask me about anything, I am happy to help;
 - 📫 Please email via toricruz.mendiola@gmail.com to reach me.
 - 📝 See my [Resume](https://docs.google.com/document/d/1pD91b1BoVZxIngHFtgyhrlNq93962RvsRVuyT5UKOhs/edit?usp=sharing) to get more info.
